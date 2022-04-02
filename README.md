@@ -63,13 +63,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/marlonlacerda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## 🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  1,651 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 42 tasks so far           
-⏳  Longest streak is 4 days
-<!-- TODO-IST:END -->
 
 ## 📈 My github stats
 <div align="center">
