@@ -6,7 +6,7 @@
 </a>
 <a href="https://twitter.com/stigtemata">
   <img align="left" alt="Marlon Lacerda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/marlon-dlacerda">
+<a href="https://www.linkedin.com/in/marlonlacerda/">
   <img align="left" alt="Marlon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/9kj7rhpzrlnw9eacfqcmj2yx0">
