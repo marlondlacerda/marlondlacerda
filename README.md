@@ -71,6 +71,8 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 
 # Metrics
+<details>
 <p align="center">
 	<img width="625em" src="https://github.com/marlondlacerda/marlondlacerda/blob/main/github-metrics.svg" />
 </p> 
+</details>
