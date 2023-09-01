@@ -16,7 +16,7 @@
   <img align="left" alt="Marlon's Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=marlondlacerda.marlondlacerda)
+![](https://komarev.com/ghpvc/?username=marlondlacerda)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
