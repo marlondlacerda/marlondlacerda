@@ -1,7 +1,7 @@
 ## Hey there
 
 <br />
-<a href="https://discordapp.com/users/53528353969274880">
+[<a href="https://discordapp.com/users/53528353969274880">
   <img align="left" alt="Marlon's Discord" width="22px" src="https://camo.githubusercontent.com/98eef00fa2e5a2db274d8695fa77ab1bd190b59493b62707352e6579b5186026/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646973636f7264" />
 </a>
 <a href="https://twitter.com/stigtemata">
@@ -12,9 +12,7 @@
 <a href="https://open.spotify.com/user/9kj7rhpzrlnw9eacfqcmj2yx0">
   <img align="left" alt="Marlon's Spotify" width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
-<a href="https://api.whatsapp.com/send/?phone=5521978916131&text&app_absent=0">
-  <img align="left" alt="Marlon's Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+(url)
 
 ![](https://komarev.com/ghpvc/?username=marlondlacerda)
 
