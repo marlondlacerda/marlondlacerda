@@ -4,13 +4,8 @@
 <a href="https://discordapp.com/users/53528353969274880">
   <img align="left" alt="Marlon's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
-<a href="https://twitter.com/stigtemata">
-  <img align="left" alt="Marlon Lacerda | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" /></a>
 <a href="https://www.linkedin.com/in/marlonlacerda/">
   <img align="left" alt="Marlon's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-<a href="https://open.spotify.com/user/9kj7rhpzrlnw9eacfqcmj2yx0">
-  <img align="left" alt="Marlon's Spotify" width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=marlondlacerda)
